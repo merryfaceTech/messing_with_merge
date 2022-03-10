@@ -1,5 +1,5 @@
 def grevious_greeting
-  puts "general Kenobi!"
+  puts "what up, who loves the phantom menace?"
 end
 
 def obiwan_greeting
