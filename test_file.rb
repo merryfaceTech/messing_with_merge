@@ -3,5 +3,5 @@ def grevious_greeting
 end
 
 def obiwan_greeting
-  puts "Hello there!"
+  puts "Hello there, dude!"
 end
